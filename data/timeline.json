@@ -242,6 +242,20 @@
       },
       "dateLabel": "2025",
       "sortBucket": "recognition"
+    },
+    {
+      "text": {
+        "headline": "Elected AMS Fellow",
+        "text": "Elected as American Meteorological Society Fellow, an honor that recognizes outstanding contributions to the atmospheric or related oceanic or hydrologic sciences or their applications during a substantial period of years. Yang's research focuses on understanding and modeling interactions between the land and atmosphere, with his models used at centers around the globe."
+      },
+      "sourceIds": ["jsg-2024-fellows", "ut-profile"],
+      "id": "ams-fellow-2025",
+      "chapterId": "agu-fellow",
+      "start_date": {
+        "year": "2025"
+      },
+      "dateLabel": "2025",
+      "sortBucket": "recognition"
     }
   ]
 }
