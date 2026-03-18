@@ -109,8 +109,8 @@
     },
     {
       "text": {
-        "headline": "University of Arizona Postdoc",
-        "text": "Postdoctoral Fellow in Atmospheric Sciences and Hydrology/Water Resources at University of Arizona."
+        "headline": "University of Arizona Postdoc & Research Faculty",
+        "text": "Postdoctoral Fellow and later Research Associate Professor in Atmospheric Sciences and Hydrology/Water Resources at University of Arizona."
       },
       "sourceIds": ["ut-profile", "dossier"],
       "id": "arizona-postdoc",
@@ -135,9 +135,10 @@
       "id": "ut-austin-join",
       "chapterId": "ut-austin-faculty",
       "start_date": {
-        "year": "2001"
+        "year": "2001",
+        "month": "9"
       },
-      "dateLabel": "2001",
+      "dateLabel": "September 2001",
       "sortBucket": "faculty"
     },
     {
