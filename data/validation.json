@@ -1,32 +1,101 @@
 [
   {
-    "claim": "Ph.D. from Macquarie University (1992)",
-    "status": "Verified",
-    "sources": ["ut-profile", "researchgate"],
-    "confidence": "High"
+    "group": "Academic & Research Institutions",
+    "summary": "Zong-Liang Yang's research program is anchored by affiliations with leading academic and research institutions.",
+    "metric": "Career span · institutional validation",
+    "items": [
+      {
+        "label": "University of Melbourne",
+        "year": "1980s",
+        "sourceId": "ut-profile",
+        "note": "M.S. in Meteorology, establishing foundations in atmospheric sciences."
+      },
+      {
+        "label": "Macquarie University",
+        "year": "1989-1992",
+        "sourceId": "ut-profile",
+        "note": "Ph.D. in Atmospheric Sciences, focusing on land surface processes."
+      },
+      {
+        "label": "University of Arizona",
+        "year": "1990s",
+        "sourceId": "ut-profile",
+        "note": "Postdoctoral researcher and research faculty advancing land surface modeling expertise."
+      },
+      {
+        "label": "University of Texas at Austin",
+        "year": "2001-Present",
+        "sourceId": "ut-profile",
+        "note": "Professor in Department of Geological Sciences, Jackson Chair in Earth System Sciences."
+      },
+      {
+        "label": "Center for Integrated Earth System Science",
+        "year": "Present",
+        "sourceId": "ut-profile",
+        "note": "Director connecting climate modeling to Earth system science."
+      }
+    ]
   },
   {
-    "claim": "Joined UT Austin in 2001",
-    "status": "Verified",
-    "sources": ["ut-profile"],
-    "confidence": "High"
+    "group": "Research Impact & Model Adoption",
+    "summary": "Yang's climate models have been adopted by major U.S. research and operational centers.",
+    "metric": "Model adoption · global infrastructure",
+    "items": [
+      {
+        "label": "NCAR Community Earth System Model",
+        "year": "2011+",
+        "sourceId": "ut-profile",
+        "note": "Noah-MP model integrated into NCAR's premier climate modeling system."
+      },
+      {
+        "label": "Weather Research Forecasting Model",
+        "year": "2011+",
+        "sourceId": "ut-profile",
+        "note": "Noah-MP adopted for weather prediction and forecasting."
+      },
+      {
+        "label": "National Centers for Environmental Prediction",
+        "year": "2011+",
+        "sourceId": "ut-profile",
+        "note": "Noah-MP used in Climate Forecast System for operational forecasting."
+      },
+      {
+        "label": "National Water Model",
+        "year": "2011+",
+        "sourceId": "ut-profile",
+        "note": "Noah-MP parameterizations critical for national water prediction."
+      }
+    ]
   },
   {
-    "claim": "Noah-MP model used by NCAR and National Water Model",
-    "status": "Verified",
-    "sources": ["ut-profile", "research-papers"],
-    "confidence": "High"
-  },
-  {
-    "claim": "Elected AGU Fellow in 2025",
-    "status": "Verified",
-    "sources": ["agu-announcement", "ut-profile"],
-    "confidence": "High"
-  },
-  {
-    "claim": "Over 230 peer-reviewed articles",
-    "status": "Verified",
-    "sources": ["orcid", "ut-profile"],
-    "confidence": "High"
+    "group": "Recognition & Awards",
+    "summary": "Yang's contributions have been recognized with prestigious awards and honors.",
+    "metric": "Career recognition · scientific achievement",
+    "items": [
+      {
+        "label": "Joseph C. Walter Jr. Excellence Award",
+        "year": "2007",
+        "sourceId": "ut-profile",
+        "note": "Most prestigious internal award in Jackson School of Geosciences."
+      },
+      {
+        "label": "NCAR CCSM Distinguished Achievement Award",
+        "year": "2008",
+        "sourceId": "ut-profile",
+        "note": "Recognition for contributions to Community Climate System Model."
+      },
+      {
+        "label": "NCAR Land Working Group Co-Chair",
+        "year": "2008-2013",
+        "sourceId": "ut-profile",
+        "note": "Leadership role in climate modeling community."
+      },
+      {
+        "label": "AGU Fellow",
+        "year": "2025",
+        "sourceId": "agu-announcement",
+        "note": "Elected for exemplary leadership and outstanding scientific achievements."
+      }
+    ]
   }
 ]

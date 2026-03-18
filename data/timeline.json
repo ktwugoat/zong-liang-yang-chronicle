@@ -1,138 +1,182 @@
-[
-  {
-    "id": "melbourne-ms",
-    "headline": "M.S. in Meteorology",
-    "text": "Completed Master's degree in Meteorology at University of Melbourne, Australia.",
-    "start_date": {
-      "year": 1985
-    },
-    "locationId": "melbourne",
-    "chapterId": "melbourne-ms",
-    "sources": ["ut-profile"]
+{
+  "title": {
+    "text": {
+      "headline": "Zong-Liang Yang, Ph.D. - Research Chronicle",
+      "text": "A timeline of academic training, research innovations, and scientific contributions to climate science."
+    }
   },
-  {
-    "id": "macquarie-phd-start",
-    "headline": "Ph.D. Studies Begin",
-    "text": "Started doctoral research in Atmospheric Sciences at Macquarie University, Sydney.",
-    "start_date": {
-      "year": 1989
+  "events": [
+    {
+      "text": {
+        "headline": "M.S. in Meteorology",
+        "text": "Completed Master's degree in Meteorology at University of Melbourne, Australia."
+      },
+      "sourceIds": ["ut-profile"],
+      "id": "melbourne-ms",
+      "chapterId": "melbourne-ms",
+      "start_date": {
+        "year": "1985"
+      },
+      "dateLabel": "1985",
+      "sortBucket": "formation"
     },
-    "locationId": "sydney",
-    "chapterId": "macquarie-phd",
-    "sources": ["ut-profile"]
-  },
-  {
-    "id": "macquarie-phd-complete",
-    "headline": "Ph.D. Completed",
-    "text": "Earned Ph.D. in Atmospheric Sciences from Macquarie University.",
-    "start_date": {
-      "year": 1992
+    {
+      "text": {
+        "headline": "Ph.D. Studies Begin",
+        "text": "Started doctoral research in Atmospheric Sciences at Macquarie University, Sydney."
+      },
+      "sourceIds": ["ut-profile"],
+      "id": "macquarie-phd-start",
+      "chapterId": "macquarie-phd",
+      "start_date": {
+        "year": "1989"
+      },
+      "dateLabel": "1989",
+      "sortBucket": "research"
     },
-    "locationId": "sydney",
-    "chapterId": "macquarie-phd",
-    "sources": ["ut-profile", "dossier"]
-  },
-  {
-    "id": "arizona-postdoc",
-    "headline": "University of Arizona",
-    "text": "Postdoctoral researcher and then research faculty at University of Arizona.",
-    "start_date": {
-      "year": 1993
+    {
+      "text": {
+        "headline": "Ph.D. Completed",
+        "text": "Earned Ph.D. in Atmospheric Sciences from Macquarie University."
+      },
+      "sourceIds": ["ut-profile", "dossier"],
+      "id": "macquarie-phd-complete",
+      "chapterId": "macquarie-phd",
+      "start_date": {
+        "year": "1992"
+      },
+      "dateLabel": "1992",
+      "sortBucket": "research"
     },
-    "locationId": "tucson",
-    "chapterId": "arizona-postdoc",
-    "sources": ["ut-profile"]
-  },
-  {
-    "id": "ut-austin-join",
-    "headline": "Joins UT Austin Faculty",
-    "text": "Appointed to faculty in Department of Geological Sciences at University of Texas at Austin.",
-    "start_date": {
-      "year": 2001
+    {
+      "text": {
+        "headline": "University of Arizona",
+        "text": "Postdoctoral researcher and then research faculty at University of Arizona."
+      },
+      "sourceIds": ["ut-profile"],
+      "id": "arizona-postdoc",
+      "chapterId": "arizona-postdoc",
+      "start_date": {
+        "year": "1993"
+      },
+      "dateLabel": "1993-2001",
+      "sortBucket": "research"
     },
-    "locationId": "austin",
-    "chapterId": "ut-austin-faculty",
-    "sources": ["ut-profile", "dossier"]
-  },
-  {
-    "id": "walter-award",
-    "headline": "Joseph C. Walter Jr. Excellence Award",
-    "text": "Received the most prestigious internal award in the Jackson School of Geosciences.",
-    "start_date": {
-      "year": 2007
+    {
+      "text": {
+        "headline": "Joins UT Austin Faculty",
+        "text": "Appointed to faculty in Department of Geological Sciences at University of Texas at Austin."
+      },
+      "sourceIds": ["ut-profile", "dossier"],
+      "id": "ut-austin-join",
+      "chapterId": "ut-austin-faculty",
+      "start_date": {
+        "year": "2001"
+      },
+      "dateLabel": "2001",
+      "sortBucket": "faculty"
     },
-    "locationId": "austin",
-    "chapterId": "jackson-chair",
-    "sources": ["ut-profile"]
-  },
-  {
-    "id": "ncar-award",
-    "headline": "NCAR CCSM Distinguished Achievement Award",
-    "text": "Shared NCAR 2008 CCSM Distinguished Achievement Award for contributions to climate modeling.",
-    "start_date": {
-      "year": 2008
+    {
+      "text": {
+        "headline": "Joseph C. Walter Jr. Excellence Award",
+        "text": "Received the most prestigious internal award in the Jackson School of Geosciences."
+      },
+      "sourceIds": ["ut-profile"],
+      "id": "walter-award",
+      "chapterId": "jackson-chair",
+      "start_date": {
+        "year": "2007"
+      },
+      "dateLabel": "2007",
+      "sortBucket": "recognition"
     },
-    "locationId": "austin",
-    "chapterId": "jackson-chair",
-    "sources": ["ut-profile"]
-  },
-  {
-    "id": "land-working-group",
-    "headline": "Co-Chair of NCAR Land Working Group",
-    "text": "Appointed Co-Chair of the NCAR Community Climate System Model Land Working Group.",
-    "start_date": {
-      "year": 2008
+    {
+      "text": {
+        "headline": "NCAR CCSM Distinguished Achievement Award",
+        "text": "Shared NCAR 2008 CCSM Distinguished Achievement Award for contributions to climate modeling."
+      },
+      "sourceIds": ["ut-profile"],
+      "id": "ncar-award",
+      "chapterId": "jackson-chair",
+      "start_date": {
+        "year": "2008"
+      },
+      "dateLabel": "2008",
+      "sortBucket": "recognition"
     },
-    "end_date": {
-      "year": 2013
+    {
+      "text": {
+        "headline": "Co-Chair of NCAR Land Working Group",
+        "text": "Appointed Co-Chair of the NCAR Community Climate System Model Land Working Group."
+      },
+      "sourceIds": ["ut-profile"],
+      "id": "land-working-group",
+      "chapterId": "jackson-chair",
+      "start_date": {
+        "year": "2008"
+      },
+      "end_date": {
+        "year": "2013"
+      },
+      "dateLabel": "2008-2013",
+      "sortBucket": "recognition"
     },
-    "locationId": "boulder",
-    "chapterId": "jackson-chair",
-    "sources": ["ut-profile"]
-  },
-  {
-    "id": "noah-mp-paper",
-    "headline": "Noah-MP Model Published",
-    "text": "Published landmark papers on the Community Noah Land Surface Model with Multi-Parameterization Options.",
-    "start_date": {
-      "year": 2011
+    {
+      "text": {
+        "headline": "Noah-MP Model Published",
+        "text": "Published landmark papers on the Community Noah Land Surface Model with Multi-Parameterization Options."
+      },
+      "sourceIds": ["research-papers", "ut-profile"],
+      "id": "noah-mp-paper",
+      "chapterId": "noah-mp-development",
+      "start_date": {
+        "year": "2011"
+      },
+      "dateLabel": "2011",
+      "sortBucket": "innovation"
     },
-    "locationId": "austin",
-    "chapterId": "noah-mp-development",
-    "sources": ["research-papers", "ut-profile"]
-  },
-  {
-    "id": "hurricane-harvey",
-    "headline": "Hurricane Harvey Forecasting",
-    "text": "Yang's Noah-MP model proved critical in accurately forecasting Hurricane Harvey's extreme rainfall and flooding impacts.",
-    "start_date": {
-      "year": 2017,
-      "month": 8
+    {
+      "text": {
+        "headline": "Hurricane Harvey Forecasting",
+        "text": "Yang's Noah-MP model proved critical in accurately forecasting Hurricane Harvey's extreme rainfall and flooding impacts."
+      },
+      "sourceIds": ["ut-profile", "research-papers"],
+      "id": "hurricane-harvey",
+      "chapterId": "hurricane-harvey",
+      "start_date": {
+        "year": "2017",
+        "month": "8"
+      },
+      "dateLabel": "August 2017",
+      "sortBucket": "impact"
     },
-    "locationId": "houston",
-    "chapterId": "hurricane-harvey",
-    "sources": ["ut-profile", "research-papers"]
-  },
-  {
-    "id": "jackson-chair-appointment",
-    "headline": "Jackson Chair in Earth System Sciences",
-    "text": "Holds the John A. and Katherine G. Jackson Chair in Earth System Sciences at UT Austin.",
-    "start_date": {
-      "year": 2020
+    {
+      "text": {
+        "headline": "Jackson Chair in Earth System Sciences",
+        "text": "Holds the John A. and Katherine G. Jackson Chair in Earth System Sciences at UT Austin."
+      },
+      "sourceIds": ["ut-profile"],
+      "id": "jackson-chair-appointment",
+      "chapterId": "jackson-chair",
+      "start_date": {
+        "year": "2020"
+      },
+      "dateLabel": "2020",
+      "sortBucket": "recognition"
     },
-    "locationId": "austin",
-    "chapterId": "jackson-chair",
-    "sources": ["ut-profile"]
-  },
-  {
-    "id": "agu-fellow-2025",
-    "headline": "Elected AGU Fellow",
-    "text": "Elected as American Geophysical Union Fellow for exemplary leadership and outstanding scientific achievements in land surface interactions and climate modeling.",
-    "start_date": {
-      "year": 2025
-    },
-    "locationId": "austin",
-    "chapterId": "agu-fellow",
-    "sources": ["agu-announcement", "ut-profile"]
-  }
-]
+    {
+      "text": {
+        "headline": "Elected AGU Fellow",
+        "text": "Elected as American Geophysical Union Fellow for exemplary leadership and outstanding scientific achievements in land surface interactions and climate modeling."
+      },
+      "sourceIds": ["agu-announcement", "ut-profile"],
+      "id": "agu-fellow-2025",
+      "chapterId": "agu-fellow",
+      "start_date": {
+        "year": "2025"
+      },
+      "dateLabel": "2025",
+      "sortBucket": "recognition"
+    }
+  ]
+}
