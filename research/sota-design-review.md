@@ -1,6 +1,6 @@
-# Sean Xiang Chronicle — SOTA Design Review
+# Zong-Liang Yang Chronicle — SOTA Design Review
 
-Goal: build a premium founder-chronicle page by borrowing proven patterns from open-source timeline, map-story, and editorial storytelling systems instead of inventing a bespoke interaction model too early.
+Goal: build a premium research-chronicle page by borrowing proven patterns from open-source timeline, map-story, and editorial storytelling systems instead of inventing a bespoke interaction model too early.
 
 ## 1) Top 5 open-source references
 
@@ -18,7 +18,7 @@ Goal: build a premium founder-chronicle page by borrowing proven patterns from o
 - Why it matters:
   - Canonical open-source "map + narrative card" reference.
   - Useful for the life-journey / geography layer: place, caption, image, transition.
-  - Especially relevant because Sean's biography has clear location chapters (China/Hong Kong -> Irvine -> Silicon Valley -> Canada / global ecosystem).
+  - Especially relevant because Yang's biography has clear location chapters (Australia -> Arizona -> Texas / global climate modeling ecosystem).
 
 ### 3. Odyssey.js
 - Repo: https://github.com/CartoDB/odyssey.js
@@ -83,21 +83,22 @@ Goal: build a premium founder-chronicle page by borrowing proven patterns from o
 - Do not use glossy "toy" sci-fi styling without evidence.
   - The current prototype has energy, but the final version should feel more archival, elegant, and source-backed.
 
-## 3) Recommended information architecture for the Sean Xiang page
+## 3) Recommended information architecture for the Zong-Liang Yang page
 
 ### A. Hero / thesis
 - Name, one-sentence thesis, portrait or restrained abstract visual.
-- Short framing line: early technical prodigy -> research -> enterprise security founder -> AI infrastructure era.
+- Short framing line: atmospheric sciences training -> postdoctoral research -> UT Austin professor -> climate modeling pioneer -> AGU Fellow.
 - 3-5 proof chips only, not 10+.
 
 ### B. At-a-glance chronology
 - Compact horizontal phase rail:
   - Early formation
-  - CUHK / PhD
-  - Beckman / UC Irvine
-  - Bloombase founding
-  - Enterprise validation years
-  - AI-era repositioning
+  - Melbourne / M.S.
+  - Macquarie / Ph.D.
+  - Arizona postdoc
+  - UT Austin faculty
+  - Noah-MP development
+  - AGU Fellow recognition
 - Clicking a phase jumps to that chapter.
 
 ### C. Main narrative chapters
@@ -109,27 +110,29 @@ Each chapter should have:
 - optional image / logo / source link
 
 Recommended chapters:
-1. Early acceleration
-2. Research and academic formation
-3. California transition
-4. Founding Bloombase
-5. Enterprise trust and ecosystem validation
-6. Cloud / platform expansion
-7. AI infrastructure chapter
-8. Present direction / why it matters now
+1. Early academic formation
+2. Graduate studies in Australia
+3. Doctoral research at Macquarie
+4. Arizona postdoctoral work
+5. Joining UT Austin
+6. Noah-MP model development
+7. Hurricane Harvey impact
+8. AGU Fellow recognition
+9. Present direction / why it matters now
 
 ### D. Geography module
 - A separate but integrated map section.
 - 4-6 key place markers only.
 - Each place corresponds to a chapter, not every event.
-- Map should answer: how did the journey move across institutions and markets?
+- Map should answer: how did the journey move across institutions and continents?
 
 ### E. Validation / ecosystem section
 - Curated partner wall with context.
 - Better structure than a raw logo grid:
-  - Cloud platforms
-  - Security / HSM partners
-  - Enterprise ecosystem validation
+  - NCAR collaborations
+  - National Water Model integration
+  - Climate modeling centers
+  - Research impact validation
 - Keep it evidence-driven and selective.
 
 ### F. Archive / sources

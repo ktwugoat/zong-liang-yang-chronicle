@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sean Xiang — Founder Chronicle</title>
-  <meta name="description" content="A source-backed editorial chronicle of Sean Xiang's path from research to enterprise security founder and AI-era infrastructure builder." />
+  <title>Zong-Liang Yang, Ph.D. — Research Chronicle</title>
+  <parameter name="description" content="A source-backed editorial chronicle of Zong-Liang Yang's path from atmospheric sciences research to pioneering land surface modeling and climate prediction." />
   <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
   <style>
     :root {
@@ -2727,23 +2727,23 @@
 <body>
   <main class="shell">
     <div class="topline">
-      <span>Sean Xiang Chronicle</span>
+      <span>Zong-Liang Yang Chronicle</span>
     </div>
 
     <section class="hero">
       <article class="card hero-copy">
-        <div class="eyebrow">Founder chronicle</div>
-        <h1>Sean Xiang</h1>
-        <p class="lede">From doctoral engineering formation to a long enterprise-security build — and now a present-tense case for AI infrastructure.</p>
+        <div class="eyebrow">Research chronicle</div>
+        <h1>Zong-Liang Yang</h1>
+        <p class="lede">From atmospheric sciences training to pioneering land surface modeling — and now leading climate prediction research.</p>
         <p class="summary">
-          An editorial archive tracing academic research through enterprise validation, anchored by a verifiable timeline, geography, and primary sources.
+          An editorial archive tracing academic research through scientific innovation, anchored by a verifiable timeline, geography, and primary sources.
         </p>
         <div class="chips" id="heroChips">
-          <span class="chip">CUHK Ph.D.</span>
-          <span class="chip">Beckman / UC Irvine</span>
-          <span class="chip">Bloombase</span>
-          <span class="chip">Enterprise security alliances</span>
-          <span class="chip">NVIDIA / AI-era repositioning</span>
+          <span class="chip">Macquarie Ph.D.</span>
+          <span class="chip">University of Arizona</span>
+          <span class="chip">UT Austin Professor</span>
+          <span class="chip">Noah-MP & CLM Models</span>
+          <span class="chip">AGU Fellow</span>
         </div>
       </article>
 
@@ -2751,7 +2751,7 @@
         <div>
           <div class="aside-title">Chronicle thesis</div>
           <p class="summary" style="margin-top:8px; margin-bottom:0;">
-            Technical depth, compounded over decades, into enterprise leadership. It traces ecosystem partnerships through a present-tense focus on AI infrastructure.
+            Scientific innovation, compounded over decades, into academic leadership. It traces research breakthroughs through a present-tense focus on climate prediction and extreme weather forecasting.
           </p>
         </div>
         <div class="thesis-grid" id="heroStats"></div>
@@ -2826,7 +2826,7 @@
         <section class="card map-panel">
           <div class="section-label">Geography</div>
           <div class="map-shell">
-            <div id="map" aria-label="Map showing the geographic arc of Sean Xiang's chronicle"></div>
+            <div id="map" aria-label="Map showing the geographic arc of Zong-Liang Yang's chronicle"></div>
             <div class="map-overlay"></div>
             <div class="map-caption">
               <h3 id="mapTitle">Loading…</h3>
@@ -2952,9 +2952,9 @@
       const root = document.getElementById('heroStats');
       if (!root) return;
       const stats = [
-        ['14 years', 'leading Bloombase as CEO'],
-        ['20+', 'enterprise alliances and certifications'],
-        ['Physics → EE PhD → Security CEO', 'the technical arc']
+        ['20+ years', 'at UT Austin'],
+        ['230+', 'peer-reviewed articles'],
+        ['Atmospheric Sciences PhD → Arizona → UT Professor', 'the research arc']
       ];
 
       stats.forEach(([value, text]) => {
@@ -4796,9 +4796,9 @@
     function chapterTone(chapter) {
       const blob = `${chapter.id} ${chapter.phase} ${chapter.title}`.toLowerCase();
       if (blob.includes('early') || blob.includes('formation')) return 'formation';
-      if (blob.includes('research') || blob.includes('cuhk') || blob.includes('california')) return 'research';
-      if (blob.includes('founding') || blob.includes('bloombase')) return 'founder';
-      if (blob.includes('validation') || blob.includes('expansion')) return 'validation';
+      if (blob.includes('research') || blob.includes('doctoral') || blob.includes('macquarie') || blob.includes('melbourne')) return 'research';
+      if (blob.includes('faculty') || blob.includes('ut austin') || blob.includes('texas')) return 'founder';
+      if (blob.includes('validation') || blob.includes('innovation') || blob.includes('noah-mp') || blob.includes('clm')) return 'validation';
       return 'ai-era';
     }
 
@@ -4849,11 +4849,13 @@
 
     function classifyEvent(headline, text) {
       const blob = `${headline} ${text}`.toLowerCase();
-      if (blob.includes('ustc') || blob.includes('technical formation') || blob.includes('age 16')) return 'formation';
-      if (blob.includes('cuhk') || blob.includes('uc irvine') || blob.includes('beckman')) return 'research';
-      if (blob.includes('nvidia') || blob.includes('utimaco') || blob.includes('conference')) return 'ai-era';
-      if (blob.includes('founded') || blob.includes('marketplace') || blob.includes('canada expansion')) return 'company';
-      return 'validation';
+      if (blob.includes('early') || blob.includes('formation') || blob.includes('undergraduate')) return 'formation';
+      if (blob.includes('macquarie') || blob.includes('melbourne') || blob.includes('doctoral') || blob.includes('ph.d.') || blob.includes('phd')) return 'research';
+      if (blob.includes('arizona') || blob.includes('postdoc')) return 'research';
+      if (blob.includes('ut austin') || blob.includes('texas') || blob.includes('faculty') || blob.includes('professor')) return 'faculty';
+      if (blob.includes('noah-mp') || blob.includes('clm') || blob.includes('land surface')) return 'innovation';
+      if (blob.includes('agu') || blob.includes('present') || blob.includes('current')) return 'present';
+      return 'research';
     }
 
     function hasStructuredStartDate(event) {

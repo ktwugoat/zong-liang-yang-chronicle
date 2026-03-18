@@ -1,6 +1,6 @@
-# Sean Xiang Chronicle
+# Zong-Liang Yang Chronicle
 
-An animated founder chronicle project for Sean Xiang / Bloombase.
+An animated research chronicle project for Zong-Liang Yang / University of Texas at Austin.
 
 Planned structure:
 - research dossier
