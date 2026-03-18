@@ -340,5 +340,39 @@
       "artifactLabel": "Artifact readiness",
       "artifact": "Career pinnacle"
     }
+  },
+  {
+    "id": "noah-mp-leadership",
+    "phase": "Future Direction",
+    "range": "2025+",
+    "title": "Leading World-Class Land Surface Modeling",
+    "dek": "Continuing to advance Noah-MP as the global standard for land-atmosphere interaction modeling.",
+    "narrative": [
+      "Yang continues to lead the evolution of Noah-MP, ensuring it remains at the forefront of land surface modeling for climate prediction, weather forecasting, and water resource management. His work shapes how the world understands and predicts Earth system interactions in an era of rapid climate change."
+    ],
+    "proofPoints": [
+      "Noah-MP used by major modeling centers worldwide",
+      "Ongoing development for next-generation climate models",
+      "Training the next generation of climate scientists",
+      "Advancing understanding of land-atmosphere feedbacks"
+    ],
+    "locationId": "austin",
+    "locationIds": ["austin"],
+    "mapCaption": "Yang continues to lead global land surface modeling efforts from UT Austin.",
+    "mapCamera": {
+      "center": [-97.7431, 30.2672],
+      "zoom": 6.0,
+      "pitch": 18,
+      "bearing": -10
+    },
+    "sources": ["ut-profile", "dossier"],
+    "evidenceProfile": {
+      "stanceLabel": "Evidence stance",
+      "stance": "Ongoing",
+      "strengthLabel": "Source mix",
+      "strength": "Active research",
+      "artifactLabel": "Artifact readiness",
+      "artifact": "Future direction"
+    }
   }
 ]
