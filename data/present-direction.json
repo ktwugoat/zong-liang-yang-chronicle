@@ -1,24 +1,23 @@
 {
-  "currentFocus": "Climate prediction and extreme weather forecasting",
-  "activeResearch": [
-    "Land-atmosphere interactions",
-    "Hydrological modeling",
-    "Climate change impacts",
-    "Extreme weather prediction"
-  ],
-  "recentMilestones": [
+  "title": "Present Direction",
+  "summary": "Yang's research continues to advance climate prediction and extreme weather forecasting, with his models playing a critical role in understanding and predicting climate change impacts. His work integrates cutting-edge AI/ML techniques into land surface modeling while training the next generation of climate scientists.",
+  "signals": [
     {
-      "year": 2025,
-      "event": "Elected AGU Fellow"
+      "label": "Current Focus",
+      "text": "Climate prediction and extreme weather forecasting through advanced land surface modeling"
     },
     {
-      "year": 2024,
-      "event": "Continued development of Noah-MP model"
+      "label": "Active Research",
+      "text": "Land-atmosphere interactions, hydrological modeling, climate change impacts, and extreme weather prediction"
+    },
+    {
+      "label": "Recent Milestones",
+      "text": "Elected AGU Fellow (2025), continued development of Noah-MP model with AI/ML integration"
+    },
+    {
+      "label": "Future Directions",
+      "text": "AI/ML integration into land surface models, enhanced climate prediction capabilities, training next generation of climate scientists"
     }
   ],
-  "futureDirections": [
-    "AI/ML integration into land surface models",
-    "Enhanced climate prediction capabilities",
-    "Training next generation of climate scientists"
-  ]
+  "sourceIds": ["ut-profile", "agu-announcement", "orcid"]
 }
