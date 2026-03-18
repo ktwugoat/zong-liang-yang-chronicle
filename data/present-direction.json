@@ -1,22 +1,19 @@
 {
-  "title": "Present Direction",
-  "summary": "Yang's research continues to advance climate prediction and extreme weather forecasting, with his models playing a critical role in understanding and predicting climate change impacts. His work integrates cutting-edge AI/ML techniques into land surface modeling while training the next generation of climate scientists.",
+  "eyebrow": "Present direction",
+  "title": "Why this chronicle matters now",
+  "summary": "Zong-Liang Yang's research program continues to advance our understanding of land-atmosphere interactions, climate prediction, and extreme weather forecasting—fundamental questions with direct implications for climate change adaptation and societal resilience.",
   "signals": [
     {
-      "label": "Current Focus",
-      "text": "Climate prediction and extreme weather forecasting through advanced land surface modeling"
+      "label": "Climate Prediction Research",
+      "text": "Yang's work on land surface modeling and climate prediction provides critical infrastructure for weather forecasting and climate change projections, with direct relevance to understanding extreme weather events and their impacts on society."
     },
     {
-      "label": "Active Research",
-      "text": "Land-atmosphere interactions, hydrological modeling, climate change impacts, and extreme weather prediction"
+      "label": "Noah-MP Model Impact",
+      "text": "The Noah-MP model developed by Yang's team has become essential infrastructure used by NCAR, NOAA, and the National Water Model, enabling accurate weather prediction and climate forecasting worldwide."
     },
     {
-      "label": "Recent Milestones",
-      "text": "Elected AGU Fellow (2025), continued development of Noah-MP model with AI/ML integration"
-    },
-    {
-      "label": "Future Directions",
-      "text": "AI/ML integration into land surface models, enhanced climate prediction capabilities, training next generation of climate scientists"
+      "label": "Extreme Weather Forecasting",
+      "text": "Yang's models proved critical in forecasting Hurricane Harvey's devastating impacts, demonstrating the real-world value of his research in protecting communities from extreme weather events and supporting emergency response planning."
     }
   ],
   "sourceIds": ["ut-profile", "agu-announcement", "orcid"]

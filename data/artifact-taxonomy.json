@@ -1,22 +1,26 @@
 [
   {
-    "id": "research-papers",
-    "name": "Research Publications",
-    "description": "Peer-reviewed academic papers"
+    "id": "profile-source",
+    "label": "Profile source",
+    "description": "University or institutional profile documenting academic position and research focus.",
+    "tone": "context"
   },
   {
-    "id": "awards",
-    "name": "Awards and Honors",
-    "description": "Academic recognition and awards"
+    "id": "publication",
+    "label": "Publication",
+    "description": "Peer-reviewed research publication documenting scientific contributions.",
+    "tone": "primary"
   },
   {
-    "id": "models",
-    "name": "Climate Models",
-    "description": "Developed climate and weather prediction models"
+    "id": "model-documentation",
+    "label": "Model documentation",
+    "description": "Documentation of climate model development and implementation.",
+    "tone": "evidence"
   },
   {
-    "id": "impact",
-    "name": "Real-World Impact",
-    "description": "Applications and societal benefits"
+    "id": "research-program",
+    "label": "Research program",
+    "description": "Ongoing research program with sustained contributions to climate science.",
+    "tone": "present"
   }
 ]
