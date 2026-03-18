@@ -1,29 +1,60 @@
 [
   {
-    "id": "early-formation",
-    "phase": "Formation",
-    "range": "Early years",
-    "title": "Academic foundations",
-    "dek": "Zong-Liang Yang's path began with rigorous scientific training.",
-    "narrative": [],
+    "id": "henan-origins",
+    "phase": "Origins",
+    "range": "1960s",
+    "title": "Born in Henan Province",
+    "dek": "Zong-Liang Yang was born in Henan Province, China.",
+    "narrative": [
+      "Yang's journey in atmospheric sciences began in Henan Province, China, where he was born in 1962."
+    ],
     "proofPoints": [],
-    "locationId": "melbourne",
-    "locationIds": ["melbourne"],
-    "mapCaption": "Early academic formation in Australia.",
+    "locationId": "henan",
+    "locationIds": ["henan"],
+    "mapCaption": "Yang was born in Henan Province, China.",
     "mapCamera": {
-      "center": [144.9631, -37.8136],
+      "center": [113.6254, 34.7466],
       "zoom": 5.0,
+      "pitch": 18,
+      "bearing": -10
+    },
+    "sources": ["dossier"],
+    "evidenceProfile": {
+      "stanceLabel": "Evidence stance",
+      "stance": "Documented",
+      "strengthLabel": "Source mix",
+      "strength": "Biographical record",
+      "artifactLabel": "Artifact readiness",
+      "artifact": "Origins"
+    }
+  },
+  {
+    "id": "nanjing-undergrad",
+    "phase": "Undergraduate Studies",
+    "range": "1980-1984",
+    "title": "B.S. in Meteorology",
+    "dek": "Completed Bachelor's degree in Meteorology at Nanjing University of Information Science and Technology.",
+    "narrative": [
+      "Yang began his formal training in meteorology at Nanjing University of Information Science and Technology in Jiangsu, China, earning his B.S. degree from 1980 to 1984."
+    ],
+    "proofPoints": [],
+    "locationId": "nanjing",
+    "locationIds": ["nanjing"],
+    "mapCaption": "Yang earned his B.S. in Meteorology from Nanjing University.",
+    "mapCamera": {
+      "center": [118.7969, 32.0603],
+      "zoom": 6.0,
       "pitch": 18,
       "bearing": -10
     },
     "sources": ["dossier", "ut-profile"],
     "evidenceProfile": {
       "stanceLabel": "Evidence stance",
-      "stance": "Restrained narrative",
+      "stance": "Documented",
       "strengthLabel": "Source mix",
-      "strength": "Narrative chapter",
+      "strength": "Academic record",
       "artifactLabel": "Artifact readiness",
-      "artifact": "Early formation chapter"
+      "artifact": "Education milestone"
     }
   },
   {
@@ -88,18 +119,47 @@
     }
   },
   {
+    "id": "macquarie-postdoc",
+    "phase": "Postdoctoral Research",
+    "range": "1992-1993",
+    "title": "Postdoctoral Fellow at Macquarie",
+    "dek": "Postdoctoral Fellow in Atmospheric Sciences at Macquarie University, Sydney.",
+    "narrative": [
+      "Immediately after completing his Ph.D., Yang continued his research at Macquarie University as a Postdoctoral Fellow from July 1992 to January 1993."
+    ],
+    "proofPoints": [],
+    "locationId": "sydney",
+    "locationIds": ["sydney"],
+    "mapCaption": "Yang's first postdoctoral position at Macquarie University.",
+    "mapCamera": {
+      "center": [151.2093, -33.8688],
+      "zoom": 6.0,
+      "pitch": 18,
+      "bearing": -10
+    },
+    "sources": ["dossier", "ut-profile"],
+    "evidenceProfile": {
+      "stanceLabel": "Evidence stance",
+      "stance": "Documented",
+      "strengthLabel": "Source mix",
+      "strength": "Career record",
+      "artifactLabel": "Artifact readiness",
+      "artifact": "Postdoctoral milestone"
+    }
+  },
+  {
     "id": "arizona-postdoc",
     "phase": "Postdoctoral Research",
-    "range": "1990s",
+    "range": "1993-2001",
     "title": "University of Arizona",
-    "dek": "Postdoctoral and research faculty position at University of Arizona.",
+    "dek": "Postdoctoral Fellow and Research Associate Professor at University of Arizona.",
     "narrative": [
-      "Before joining UT Austin, Yang worked as a postdoc and then research faculty at the University of Arizona, further developing his expertise in land surface modeling."
+      "Yang moved to the University of Arizona in January 1993, where he worked as a Postdoctoral Fellow and later as Research Associate Professor in Atmospheric Sciences and Hydrology/Water Resources until August 2001, further developing his expertise in land surface modeling."
     ],
     "proofPoints": [],
     "locationId": "tucson",
     "locationIds": ["tucson"],
-    "mapCaption": "Yang was postdoc and research faculty at University of Arizona.",
+    "mapCaption": "Yang spent nearly a decade at University of Arizona developing his research program.",
     "mapCamera": {
       "center": [-110.9265, 32.2226],
       "zoom": 6.0,

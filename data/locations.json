@@ -1,5 +1,23 @@
 [
   {
+    "id": "henan",
+    "name": "Henan Province, China",
+    "lat": 34.7466,
+    "lng": 113.6254,
+    "significance": "Birthplace of Zong-Liang Yang",
+    "phase": "Origins",
+    "years": "1962"
+  },
+  {
+    "id": "nanjing",
+    "name": "Nanjing, Jiangsu, China",
+    "lat": 32.0603,
+    "lng": 118.7969,
+    "significance": "B.S. in Meteorology from Nanjing University of Information Science and Technology",
+    "phase": "Undergraduate Studies",
+    "years": "1980-1984"
+  },
+  {
     "id": "melbourne",
     "name": "Melbourne, Australia",
     "lat": -37.8136,
@@ -13,18 +31,18 @@
     "name": "Sydney, Australia",
     "lat": -33.8688,
     "lng": 151.2093,
-    "significance": "Ph.D. in Atmospheric Sciences from Macquarie University",
-    "phase": "Doctoral Research",
-    "years": "1989-1992"
+    "significance": "Ph.D. in Atmospheric Sciences from Macquarie University and first postdoctoral position",
+    "phase": "Doctoral Research & Postdoc",
+    "years": "1989-1993"
   },
   {
     "id": "tucson",
     "name": "Tucson, Arizona",
     "lat": 32.2226,
     "lng": -110.9265,
-    "significance": "Postdoc and research faculty at University of Arizona",
+    "significance": "Postdoctoral Fellow and Research Associate Professor at University of Arizona",
     "phase": "Postdoctoral Research",
-    "years": "1990s"
+    "years": "1993-2001"
   },
   {
     "id": "austin",

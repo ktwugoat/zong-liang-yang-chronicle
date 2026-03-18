@@ -8,16 +8,54 @@
   "events": [
     {
       "text": {
+        "headline": "Born in Henan Province",
+        "text": "Zong-Liang Yang was born in Henan Province, China."
+      },
+      "sourceIds": ["dossier"],
+      "id": "birth-henan",
+      "chapterId": "henan-origins",
+      "start_date": {
+        "year": "1962"
+      },
+      "dateLabel": "1962",
+      "sortBucket": "formation"
+    },
+    {
+      "text": {
+        "headline": "B.S. in Meteorology",
+        "text": "Completed Bachelor's degree in Meteorology at Nanjing University of Information Science and Technology, Jiangsu, China."
+      },
+      "sourceIds": ["ut-profile", "dossier"],
+      "id": "nanjing-bs",
+      "chapterId": "nanjing-undergrad",
+      "start_date": {
+        "year": "1980",
+        "month": "9"
+      },
+      "end_date": {
+        "year": "1984",
+        "month": "7"
+      },
+      "dateLabel": "1980-1984",
+      "sortBucket": "formation"
+    },
+    {
+      "text": {
         "headline": "M.S. in Meteorology",
         "text": "Completed Master's degree in Meteorology at University of Melbourne, Australia."
       },
-      "sourceIds": ["ut-profile"],
+      "sourceIds": ["ut-profile", "dossier"],
       "id": "melbourne-ms",
       "chapterId": "melbourne-ms",
       "start_date": {
-        "year": "1985"
+        "year": "1986",
+        "month": "3"
       },
-      "dateLabel": "1985",
+      "end_date": {
+        "year": "1989",
+        "month": "3"
+      },
+      "dateLabel": "1986-1989",
       "sortBucket": "formation"
     },
     {
@@ -25,13 +63,14 @@
         "headline": "Ph.D. Studies Begin",
         "text": "Started doctoral research in Atmospheric Sciences at Macquarie University, Sydney."
       },
-      "sourceIds": ["ut-profile"],
+      "sourceIds": ["ut-profile", "dossier"],
       "id": "macquarie-phd-start",
       "chapterId": "macquarie-phd",
       "start_date": {
-        "year": "1989"
+        "year": "1989",
+        "month": "3"
       },
-      "dateLabel": "1989",
+      "dateLabel": "March 1989",
       "sortBucket": "research"
     },
     {
@@ -43,23 +82,48 @@
       "id": "macquarie-phd-complete",
       "chapterId": "macquarie-phd",
       "start_date": {
-        "year": "1992"
+        "year": "1992",
+        "month": "7"
       },
-      "dateLabel": "1992",
+      "dateLabel": "July 1992",
       "sortBucket": "research"
     },
     {
       "text": {
-        "headline": "University of Arizona",
-        "text": "Postdoctoral researcher and then research faculty at University of Arizona."
+        "headline": "Postdoctoral Fellow at Macquarie",
+        "text": "Postdoctoral Fellow in Atmospheric Sciences at Macquarie University, Sydney."
       },
-      "sourceIds": ["ut-profile"],
+      "sourceIds": ["ut-profile", "dossier"],
+      "id": "macquarie-postdoc",
+      "chapterId": "macquarie-postdoc",
+      "start_date": {
+        "year": "1992",
+        "month": "7"
+      },
+      "end_date": {
+        "year": "1993",
+        "month": "1"
+      },
+      "dateLabel": "July 1992 - January 1993",
+      "sortBucket": "research"
+    },
+    {
+      "text": {
+        "headline": "University of Arizona Postdoc",
+        "text": "Postdoctoral Fellow in Atmospheric Sciences and Hydrology/Water Resources at University of Arizona."
+      },
+      "sourceIds": ["ut-profile", "dossier"],
       "id": "arizona-postdoc",
       "chapterId": "arizona-postdoc",
       "start_date": {
-        "year": "1993"
+        "year": "1993",
+        "month": "1"
       },
-      "dateLabel": "1993-2001",
+      "end_date": {
+        "year": "2001",
+        "month": "8"
+      },
+      "dateLabel": "January 1993 - August 2001",
       "sortBucket": "research"
     },
     {
