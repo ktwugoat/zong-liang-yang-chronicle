@@ -311,10 +311,10 @@
     "id": "agu-fellow",
     "phase": "Recognition",
     "range": "2025",
-    "title": "Elected AGU Fellow",
-    "dek": "Recognized as AGU Fellow for exemplary leadership and outstanding scientific achievements.",
+    "title": "Elected AGU & AMS Fellow",
+    "dek": "Recognized as AGU and AMS Fellow for exemplary leadership and outstanding scientific achievements.",
     "narrative": [
-      "Yang was elected as an American Geophysical Union Fellow, one of the highest honors in Earth and space sciences, recognizing his transformative contributions to climate modeling."
+      "Yang was elected as both an American Geophysical Union (AGU) Fellow and American Meteorological Society (AMS) Fellow in 2025, two of the highest honors in Earth and atmospheric sciences, recognizing his transformative contributions to climate modeling and land-atmosphere interactions."
     ],
     "proofPoints": [
       "Over 230 peer-reviewed articles",
@@ -324,7 +324,7 @@
     ],
     "locationId": "austin",
     "locationIds": ["austin"],
-    "mapCaption": "Yang elected AGU Fellow in 2025.",
+    "mapCaption": "Yang elected AGU and AMS Fellow in 2025.",
     "mapCamera": {
       "center": [-97.7431, 30.2672],
       "zoom": 6.0,

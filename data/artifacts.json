@@ -20,6 +20,16 @@
     "sources": ["agu-announcement"]
   },
   {
+    "id": "ams-fellow-certificate",
+    "title": "AMS Fellow Recognition",
+    "type": "Award",
+    "date": "2025",
+    "description": "Elected as American Meteorological Society Fellow for outstanding contributions to atmospheric or related oceanic or hydrologic sciences.",
+    "chapterId": "agu-fellow",
+    "significance": "Highest honor in atmospheric and related sciences",
+    "sources": ["jsg-2024-fellows"]
+  },
+  {
     "id": "jackson-chair",
     "title": "Jackson Chair Appointment",
     "type": "Academic Honor",

@@ -95,6 +95,12 @@
         "year": "2025",
         "sourceId": "agu-announcement",
         "note": "Elected for exemplary leadership and outstanding scientific achievements."
+      },
+      {
+        "label": "AMS Fellow",
+        "year": "2025",
+        "sourceId": "jsg-2024-fellows",
+        "note": "Elected for outstanding contributions to atmospheric or related oceanic or hydrologic sciences."
       }
     ]
   }
